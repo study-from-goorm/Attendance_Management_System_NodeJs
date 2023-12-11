@@ -1,0 +1,16 @@
+{
+  "courses": [
+    {
+      "courseId": 1,
+      "courseName": "풀스택 1회차"
+    },
+    {
+      "courseId": 2,
+      "courseName": "풀스택 2회차"
+    },
+    {
+      "courseId": 3,
+      "courseName": "풀스택 3회차"
+    }
+  ]
+}

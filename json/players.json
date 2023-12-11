@@ -1,0 +1,46 @@
+{
+  "players": [
+    {
+      "playerId": "abc1",
+      "courseId": 1,
+      "courseName": "풀스택 1회차",
+      "playerName": "김지훈",
+      "playerEmail": "jihoon@mail.com"
+    },
+    {
+      "playerId": "abc2",
+      "courseId": 3,
+      "courseName": "풀스택 3회차",
+      "playerName": "공유",
+      "playerEmail": "gongyou@mail.com"
+    },
+    {
+      "playerId": "abc3",
+      "courseId": 1,
+      "courseName": "풀스택 1회차",
+      "playerName": "박서준",
+      "playerEmail": "seojun@mail.com"
+    },
+    {
+      "playerId": "abc4",
+      "courseId": 2,
+      "courseName": "풀스택 2회차",
+      "playerName": "아이린",
+      "playerEmail": "irene@mail.com"
+    },
+    {
+      "playerId": "abc5",
+      "courseId": 2,
+      "courseName": "풀스택 2회차",
+      "playerName": "슬기",
+      "playerEmail": "seulgi@mail.com"
+    },
+    {
+      "playerId": "abc6",
+      "courseId": 3,
+      "courseName": "풀스택 3회차",
+      "playerName": "테일러 스위프트",
+      "playerEmail": "swift@mail.com"
+    }
+  ]
+}
